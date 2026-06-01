@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "seraphic-music-420501",
+  "private_key_id": "4e1d5407ad4eea5f6105986e532bd70bf56cd17f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+tWlJAfJP4Sqo\nc2yVWiVrZpheK9EYu6XF2FnXuZFkXDdOmJOHIyLRMd86qftUPq1KOYQ6jXgkMiaR\n4H2+9il4zTBLx5lSDB2PEL4DFZ1csIniL9DcTV4WW4bI4idzt6zAZfEM8RAQzEd6\nkfA3k5/S6F2ZSw+SUd90LNVjNhPfyFcc8ah91+yTqann9okTtwss6Vxx+wHnkjyI\ncsM2ho7iUt7KQNv2OlINtrsppDfIWpfWr+rjdGiaA6o+B+lYiZTKWOiBracBFksE\nzbnAOjnsWEWv3toBuRXPbjtLwIFhm6+ICiedSKVzmIhRocjLLlW2EG8YpLqaki57\naCWytldXAgMBAAECggEAB8WfNvqi1DmMwlUDNv+iUxhZG6Ff10kHw6KCYCXFCe4u\nJ4BVUXu6QVntyyy+kYYvtrzVqYiMEww41oIWbdAHYaUZvkTcoo4xgtvqT82I3mGo\nGjUw/Fa/f7FsMpybgf5EG9/WV9zXzETJoZz39Ak1SWREiD5EXLCvJsNlpjI/0237\nE397DIEF6PlbGURULMm6Uokd5+OTrPpQ3jpBCjtKL8KiNxIGieLRt4tZKn49HfJE\nUJrs9msU2PvTvAe8qy+Vqk9O44FGb3+4LxLCxZyET+0WPL5Wm+dgCYMbpDxz7S/3\nwPBaQXgtI8zDFj+ijNtANZmr4kQ9L2UyOY8vCJEiJQKBgQD4YhOka+CZ2e68EWqJ\niSjuAzeidMRu5Z3PhoEJSmlYWvxQ3c6AZVUZNyBfMXAZ44ijw9+AYItaodg/hKxs\nP3uMl1ZBreD7jZQKnkX0hqP1T6ieDhDm9QY1ZV3mMDCjYNmS3jQZl9p1TNqpAaWt\nqtyq5xFT+l1apBOejtX20svwbQKBgQDEjpAiEqFSX9RCLKzdS6edj5rXA+R001cm\nfVb3ZUj+EW13Bx4w00TzWAr09jMp58Ez15ZrkJCXXU6KgxfIihX8Y0oa3zjPewi+\nbnWS3i6dAeXPfXQ7VFUTrExiRSLOVX//NuK0TnV2VPucWBQvBBgeaxFuSk9qONFx\n9l9bjH50UwKBgCA70iK/YTl2H9ZGSFYq96XTww+RKcDeiZlZ8jr7bipqPF5eOqNN\nAzsvfUL9Tnf9oEjobYPig5Myd7beh+XQYz8+kJIbd5wNpo2uNpPiOTrnqJFCcA0Y\n9UJOsl3iGR3KvtGhho9ftpkMbUALl62vA84mCIimcCEINAear8fFWXQNAoGBAJrv\n9dWl8dxJBbwUEz9tf3bH2DpdKxyb6zq/2mmxQVRk0HDe/4FlSBi58gkeeT4zHSyM\naFnp3tAyENNGetztXF9StPtxsgp65W2XDL70vLGu6UQhlBmgZF/ZlWxxKvqSkw7O\naO3QWu8oFh4rn91f0NNJergBg5ArsY2vs4MqwBNZAoGAeIr184MATHnpniOnp74Y\n91DIE1R2O3tP0Hzd3SMdvnw56U2StIHh2nLPtA9tHkM7s6ddEKu44EQoNrKq20pU\nxJF7YBoq7NCxj2kB4FGquyV9120qTdZruWhpmO7IJbvt6cxbEdPSXD3bCDMnL714\n+FAoS4LBCRLT7HHNUrfF+lQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-store-app@seraphic-music-420501.iam.gserviceaccount.com",
+  "client_id": "110067547935129471525",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-store-app%40seraphic-music-420501.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
